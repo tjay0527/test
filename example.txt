@@ -1,4 +1,6 @@
 hi
 it's raining outside
 [feature branch] bottle
-[main] branch edited main [branch] word
+
+[main] main edite different from testmerge branch [branch] word
+
